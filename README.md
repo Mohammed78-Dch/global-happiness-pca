@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/cover.png" alt="Global Happiness Analytics Cover" width="600"/>
+  <img src="assets/GlobalHappiness.png" alt="Global Happiness Analytics Cover" width="600"/>
 </p>
 
 # 🌍 Global Happiness Analytics - Exploring World Happiness Drivers
@@ -7,10 +7,6 @@
 This project explores the key factors that influence global happiness levels using **Principal Component Analysis (PCA)**. By leveraging real-world data and dimensionality reduction techniques, we aim to uncover the most significant contributors to happiness across countries.
 
 📅 **Duration:** November 2024 – January 2025  
-👨‍💻 **Contributors:** Mohammed DECHRAOUI, Elhassan DAGUAGUI  
-👩‍🏫 **Supervisor:** Mariya SADKI  
-🔗 [GitHub Repository](https://github.com/Mohammed78-Dch/global-happiness-pca)
-
 ---
 
 ## 📌 Objective
